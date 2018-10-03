@@ -69,7 +69,7 @@ print(isinstance(d1,developer))
 print(issubclass(manager,Employ))
 
 
-help(manager)
+help(manager) #this is for MRO (Method Resolution Order 
 
 print()
 
